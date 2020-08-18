@@ -1,6 +1,8 @@
 VCD Parser and Analyzer
 =======================
 
+[![Build Status](https://api.travis-ci.org/wohali/vcd_parsealyze.svg?branch=master)](https://travis-ci.org/github/wohali/vcd_parsealyze)
+
 The `vcd` module contains three useful classes:
 
 1.  `VCDParser` - a parser for `.vcd` files that supports streaming the
